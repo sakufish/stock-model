@@ -4,6 +4,8 @@ a LSTM model to forecast short-term stock movements using past data and sentimen
 ![image](https://github.com/user-attachments/assets/8f767686-4971-4a64-92e8-b64b63c6c226)
 ![image](https://github.com/user-attachments/assets/1bcda62e-a770-4057-ba76-5ffb140acf27)
 
+Samples from BlackBerry close prices (BB)
+
 ## considerations & reflection:
 1. scaling
    * min-max was avoided due to strict limit
